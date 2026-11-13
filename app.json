@@ -8,7 +8,7 @@
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.marketstreet.greybox"
+      "bundleIdentifier": "com.sambulosenda.marketstreet"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.marketstreet.greybox"
+      "package": "com.sambulosenda.marketstreet"
     },
     "web": {
       "favicon": "./assets/favicon.png"

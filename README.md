@@ -24,7 +24,7 @@ npx eas-cli@latest build --profile development --platform ios   # or android
 npx eas-cli@latest build --profile preview --platform ios       # the build to hand to testers
 ```
 
-The bundle identifier in `app.json` (`com.marketstreet.greybox`) is a placeholder. Set your own before the first EAS build.
+The bundle identifier and Android package in `app.json` are `com.sambulosenda.marketstreet`. Change them before the first store upload if you want a different one.
 
 ## What is in it
 
